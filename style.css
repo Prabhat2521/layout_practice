@@ -1,0 +1,97 @@
+.btn-orange{
+    color: #fff;
+    background-color: #CE3937;
+    border-color: #CE3937;
+    outline: none;
+}
+
+.btn-orange:hover{
+    color:#CE3937;
+    background-color: #fff;
+    outline:none;
+}
+
+.navbar-light .navbar-nav .nav-link.active{
+    color:#CE3937;
+}
+
+.crousel_img{
+   opacity: 0.7;
+}
+
+
+
+.carousel-indicators [data-bs-target]{
+    background-color: #CE3937;
+}
+.circle-btn{
+    border-radius: 50%;
+    width:10px !important;
+    height: 10px !important;
+}
+
+.carousel-caption {
+    bottom: 11rem !important;
+}
+
+.icon{
+    list-style: none;
+}
+
+.icon>li:before {
+content: "\f101"; /* FontAwesome Unicode */
+font-family: FontAwesome;
+display: inline-block;
+margin-left: -1.3em; /* same as padding-left set on li */
+width: 1.3em; /* same as padding-left set on li */
+color:#CE3937;
+}
+
+i{
+    padding-top: 31px;
+    font-size: 30px;
+    color:#CE3937;
+}
+
+.active-all{
+    background-color: #CE3937;
+    color: #fff;
+    padding:0.8rem;
+}
+
+.port-4{
+    margin-top: 1.2rem;
+}
+
+.port-5{
+    margin-top: -5rem;
+}
+
+.port-6{
+    margin-top: -7rem;
+}
+.port-7{
+    margin-top: -34rem;
+}
+.port-8{
+    margin-top: -22rem;;
+}
+.footer{
+    background-color:#515D6A;
+}
+.fs-6 {
+    font-size: 0.7rem!important;
+}
+
+.chevron-icon{
+    list-style: none;
+
+}
+.chevron-icon>li:before{
+    content: "\f105"; /* FontAwesome Unicode */
+font-family: FontAwesome;
+display: inline-block;
+margin-left: -1.3em; /* same as padding-left set on li */
+width: 1.3em; /* same as padding-left set on li */
+margin-bottom: 0.5rem;;
+}
